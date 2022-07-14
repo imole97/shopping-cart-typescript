@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Broccoli",
+      "price": 500,
+      "imgUrl": "/images/broccoli.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fish",
+      "price": 800,
+      "imgUrl": "/images/fish.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Meat",
+      "price": 1000,
+      "imgUrl": "/images/meat.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Tomato",
+      "price": 300,
+      "imgUrl": "/images/tomato.jpg"
+    }
+  ]
